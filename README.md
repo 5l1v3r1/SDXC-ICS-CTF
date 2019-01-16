@@ -1,1 +1,1 @@
-"# SDXC-ICS-CTF"  
+# 工控CTF 题型仓库
